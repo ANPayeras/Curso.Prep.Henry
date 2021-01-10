@@ -1,0 +1,12 @@
+h1 {color: black;}
+h3 {color: black;}
+h4 {color: black;}
+img {width: 400px; height: 300px;}
+#thirdDiv {height: 600px; width: 400px;}
+#thirdDiv {background-color: saddlebrown; padding: 50px; border: 4mm ridge black;}
+#spanId {font-size: 18px; margin: 50px;}
+html {background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/River_Plate_logo.svg/1200px-River_Plate_logo.svg.png');}
+#Contenedor {width: 800px; margin: auto;}
+.divClass {width: 500px; border: 4mm ridge red;}
+#fixed {position: fixed; top: 0; left: 0; width: 200px; background-color: silver; border: 2mm solid red;}
+.divClass {position: relative; top: 100px; left: 550px;}
